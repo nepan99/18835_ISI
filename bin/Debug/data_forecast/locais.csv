@@ -1,0 +1,31 @@
+﻿globalIdLocal,idRegiao,idDistrito,idConcelho,idAreaAviso,local
+1010500,1,1,5,AVR,Aveiro
+1020500,1,2,5,BJA,Beja
+1030300,1,3,3,BRG,Braga
+1040200,1,4,2,BGC,Bragança
+1050200,1,5,2,CBO,Castelo Branco
+1060300,1,6,3,CBR,Coimbra
+1070500,1,7,5,EVR,Évora
+1080500,1,8,5,FAR,Faro
+1090700,1,9,7,GDA,Guarda
+1100900,1,10,9,LRA,Leiria
+1110600,1,11,6,LSB,Lisboa
+1110622,1,11,6,LSB,Lisboa - Jardim Botânico
+1121400,1,12,14,PTG,Portalegre
+1131200,1,13,12,PTO,Porto
+1141600,1,14,16,STM,Santarém
+1151200,1,15,12,STB,Setúbal
+1160900,1,16,9,VCT,Viana do Castelo
+1171400,1,17,14,VRL,Vila Real
+1182300,1,18,23,VIS,Viseu
+2310300,2,31,3,MCS,Funchal
+2320100,2,32,1,MPS,Porto Santo
+3410100,3,41,1,AOR,Vila do Porto
+3420300,3,42,3,AOR,Ponta Delgada
+3430100,3,43,1,ACE,Angra do Heroísmo
+3440100,3,44,1,ACE,Santa Cruz da Graciosa
+3450200,3,45,2,ACE,Velas
+3460200,3,46,2,ACE,Madalena
+3470100,3,47,1,ACE,Horta
+3480200,3,48,2,AOC,Santa Cruz das Flores
+3490100,3,49,1,AOC,Vila do Corvo
